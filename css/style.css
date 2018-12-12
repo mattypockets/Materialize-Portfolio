@@ -11,3 +11,9 @@ img {
     height: 110px;
     width: auto;
 }
+
+.card-title {
+    background-color: grey;
+    opacity: .85;
+    width: 100%;
+}
